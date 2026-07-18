@@ -7,7 +7,7 @@
 - Student ID: `68543210048-3`
 - Name: `Aungkane Sakunbundee`
 - Operating system: `<Windows + WSL>`
-- GitHub Pages URL: `https://aungkanr.github.io/engse203-lab02-68543210048-3/`
+- GitHub Pages URL: [https://aungkanr.github.io/engse203-lab02-68543210048-3/](https://aungkanr.github.io/engse203-lab02-68543210048-3/)
 
 ## Project Overview
 
