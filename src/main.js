@@ -47,7 +47,7 @@ async function loadDashboard() {
       `ไม่สามารถโหลดข้อมูลได้: ${error.message}`,
     );
   } finally {
-    console.info("Learning Dashboard load attempt finished.");
+    console.info("Learning Dashboard load attempt finished.");  
   }
 }
 
